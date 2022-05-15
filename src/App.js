@@ -1,17 +1,16 @@
 import { Tag } from "../src/components/Tag.js";
-import { Description } from "../src/components/Description.js";
-import { Header } from "../src/components/Header.js";
-import "./App.css";
+// import { Description } from "../src/components/Description.js";
+// import { Header } from "../src/components/Header.js";
+import React from 'react';
+import { Container } from "./components/Container.js";
 import "./index.css";
+import "./App.css";
 
-function App() {
+export const App = () => {
   return (
-    <div className="App">
-      <Header />
-      <Description />
+    <div>
+      <Container />
       <Tag />
     </div>
-  );
+  )
 }
-
-export default App;
