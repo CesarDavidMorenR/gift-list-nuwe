@@ -1,11 +1,21 @@
+/* TODO Scroll transtion scroll directtion https://stackoverflow.com/questions/18481308/set-mouse-wheel-to-horizontal-scroll-using-css https://css-tricks.com/pure-css-horizontal-scrolling/ */
+
+.overflowx{
+  width: 200px;
+  overflow-x:scroll;
+  margin: 50px auto;
+  
+}
+
 .cardsContainer {
   background-color: white;
   display:block;
-  /* margin: 250px auto; */
+  margin: 150px auto;
   width: 427px;
   min-height: 200px;
   border: 2px solid #8170D8;
   border-radius: 10px;
+
 }
 
 .cardsContainer:hover{
