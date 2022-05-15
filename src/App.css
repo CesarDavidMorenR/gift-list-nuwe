@@ -2,14 +2,32 @@
   background-color: white;
   display:block;
   margin: 250px auto;
-  width: 600px;
-  height: 250px;
+  width:500px;
+  height: 200px;
   border: 2px solid #8170D8;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .cardsContainer:hover{
   background-color: #DCD5FF;
+}
+
+/* Header Style */
+
+.header {
+  font-weight: bold;
+   width: 90%;
+   margin-left: 15px;
+   margin-top: 25px;
+}
+
+/* Description Styles */
+
+.decription {
+  color: rgb(200, 115, 115);
+  width: 90%;
+  margin-left: 15px;
+  
 }
 
 /* Tag Styles */
@@ -19,26 +37,11 @@
   background-color: #579A52;
   color: white;
   border-radius: 50px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 17px;
+  padding-right: 17px;
   max-width: 90%;
   height: 30px;
+  margin-left: 15px;
   
 
-}
-
-/* Header Style */
-
-.header {
-  font-weight: bold;
-}
-
-/* Description Styles */
-
-.decription {
-  color: rgb(200, 115, 115);
-  height: 130px;
-  width: 250px;
-  
-  
 }
