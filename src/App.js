@@ -1,6 +1,8 @@
 import { Tag } from "../src/components/Tag.js";
 import { Description } from "../src/components/Description.js";
 import { Header } from "../src/components/Header.js";
+import "./App.css";
+import "./index.css";
 
 function App() {
   return (

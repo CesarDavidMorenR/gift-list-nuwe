@@ -4,12 +4,11 @@ import {Card} from "./Card.js";
 // import { Description } from "./Description.js";
 // import { Header } from "./Header.js";
 
-function cardsContainer() {
+export const cardsContainer = () => {
   return (
-    <div className="card">
+    <div className="cardContainer">
       <Card />
     </div>
   );
 }
 
-export default cardsContainer;

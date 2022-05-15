@@ -1,4 +1,4 @@
-.card {
+.cardContainer {
   display:block;
   margin: 250px auto;
   width: 600px;
@@ -21,9 +21,15 @@
 
 }
 
+/* Header Style */
+
+.header {
+  background-color:rgb(121, 104, 246);
+}
+
 /* Description Styles */
 
-.description {
+.decription {
   color: rgb(200, 115, 115);
   height: 430px;
   width: 500px;
