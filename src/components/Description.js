@@ -4,7 +4,7 @@ import React from "react";
 export const Description = () => {
   return (
     <p className="decription">
-      Regalos deportivos🎉
+      Lista de regalos para el grupo crew🎉
     </p>
   )
 };

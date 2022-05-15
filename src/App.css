@@ -1,18 +1,22 @@
 .cardsContainer {
-  background-color: rgb(42, 23, 137);
+  background-color: white;
   display:block;
   margin: 250px auto;
   width: 600px;
   height: 250px;
-  border: 1px solid rgb(124, 122, 122);
+  border: 2px solid #8170D8;
   border-radius: 15px;
+}
+
+.cardsContainer:hover{
+  background-color: #DCD5FF;
 }
 
 /* Tag Styles */
 
 .tag{
 
-  background-color: green;
+  background-color: #579A52;
   color: white;
   border-radius: 50px;
   padding: 7px;
@@ -25,7 +29,7 @@
 /* Header Style */
 
 .header {
-  background-color:rgb(121, 104, 246);
+  font-weight: bold;
 }
 
 /* Description Styles */
@@ -34,6 +38,6 @@
   color: rgb(200, 115, 115);
   height: 130px;
   width: 250px;
-  background-color: red;
+  
   
 }
