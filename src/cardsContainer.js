@@ -1,16 +1,15 @@
 import "./App.css";
-import { Tag } from "./Tag.js";
-import { Description } from "./Description.js";
-import { Header } from "./Header.js";
+import {Card} from "./Card.js";
+// import { Tag } from "./Tag.js";
+// import { Description } from "./Description.js";
+// import { Header } from "./Header.js";
 
-function App() {
+function cardsContainer() {
   return (
     <div className="card">
-      <Header />
-      <Description />
-      <Tag />
+      <Card />
     </div>
   );
 }
 
-export default App;
+export default cardsContainer;

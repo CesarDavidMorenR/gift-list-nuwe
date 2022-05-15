@@ -3,7 +3,7 @@ import { Tag } from "./Tag.js";
 import { Description } from "./Description.js";
 import { Header } from "./Header.js";
 
-function App() {
+function Card() {
   return (
     <div className="card">
       <Header />
@@ -13,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default Card;
