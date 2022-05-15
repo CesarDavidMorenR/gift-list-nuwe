@@ -1,7 +1,7 @@
 import './App.css';
-import { Tag } from "./Tag.js";
+import { Tag } from "./components/Tag.js";
 import { Description } from "./Description.js";
-import { Header } from "./Header.js";
+import { Header } from "./components/Header.js";
 
 function App() {
   return (
