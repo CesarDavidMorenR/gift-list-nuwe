@@ -28,11 +28,24 @@ export const Container = () => {
   
   return (
     <section className="layout">
+      <p className="sign">
+        Develop by David Moreno (With React): <br />
+        <a
+          href="https://www.linkedin.com/in/david-moreno-developer/"
+          className="link_socials"
+        >
+          Linkedin
+        </a>
+        <br />
+        <a href="https://nuwe.io/users/cesardaviddev" className="link_socials">
+          Nuwe Profile
+        </a>
+      </p>
       <section className="overflowx">
         <div className="cardsContainer">
           <Header innertext={textHeaderFour} />
           <Description innertext={textDescriptionFour} />
-          <Tag innertext="Mascota"/>
+          <Tag innertext="Mascota" />
         </div>
 
         <div className="cardsContainer">
