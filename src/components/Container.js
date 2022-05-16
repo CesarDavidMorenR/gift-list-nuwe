@@ -28,6 +28,7 @@ export const Container = () => {
   
   return (
     <section className="layout">
+      {/* TODO media query for lapto */}
       <p className="sign">
         Develop by David Moreno (With React): <br />
         <a
