@@ -8,8 +8,8 @@ import { Header } from "./Header.js";
 // import { Header } from "./Header.js";
 
 export const Container = () => {
-  const text = "sdsds 🎉"; 
-  const textTwo = 'Ge down onw it wcoefffak';
+  const text = "sdsdsdncvn 🎉"; 
+  const textTwo = 'Ge down onw it wcoeffeffak';
   
   return (
     <section className="layout">
