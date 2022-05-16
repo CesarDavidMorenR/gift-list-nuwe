@@ -5,4 +5,4 @@ export default {
   component: Tag
 }
 
-export const blue = () => <Tag backgroundColor="blue" />
+export const Blue = () => <Tag backgroundColor="blue" />
