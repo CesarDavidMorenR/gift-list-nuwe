@@ -20,10 +20,9 @@ export const Container = () => {
   const textDescriptionFour = `Lista de reagalos para el grupo ${textHeaderFour} `; 
 
   const tagNameOne = 'Deportes de riesgo';
-  // const tagNameOneSecondary = 'Libros':
-  const tagNameTwo = 'Family';
-  // const tagNameThree = '':
-  // const tagNameFour = 'sdsdncvn';
+  const tagNameTwo = 'Libros';
+  const tagNameThree = 'Family';
+  const tagNameFour = 'Sport';
 
   
   
@@ -32,26 +31,29 @@ export const Container = () => {
       <section className="overflowx">
         <div className="cardsContainer">
           <Header innertext={textHeaderFour} />
-          <Description innertext={textDescriptionOne} />
-          <Tag />
+          <Description innertext={textDescriptionFour} />
+          <Tag innertext="Mascota"/>
         </div>
 
         <div className="cardsContainer">
           <Header innertext={textHeaderThree} />
-          <Description innertext={textDescriptionTwo} />
-          <Tag />
+          <Description innertext={textDescriptionThree} />
+          <Tag innertext={tagNameThree} />
+          <Tag innertext="Un tag diferente" />
         </div>
 
         <div className="cardsContainer">
           <Header innertext={textHeaderTwo} />
-          <Description innertext={textDescriptionThree} />
-          <Tag />
+          <Description innertext={textDescriptionTwo} />
+          <Tag innertext={tagNameThree} />
+          <Tag innertext={tagNameFour} />
         </div>
 
         <div className="cardsContainer">
           <Header innertext={textHeaderOne} />
-          <Description innertext={textDescriptionFour} />
-          <Tag />
+          <Description innertext={textDescriptionOne} />
+          <Tag innertext={tagNameOne} />
+          <Tag innertext={tagNameTwo} />
         </div>
       </section>
     </section>

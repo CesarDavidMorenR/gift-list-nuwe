@@ -3,10 +3,10 @@ import React from 'react';
 
 
 
-export const Tag = () => {
+export const Tag = (props) => {
   return (
     <p className='tag'>
-      Deportesd de riesgo
+      {props.innertext}
     </p>
 
   )
