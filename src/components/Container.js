@@ -31,25 +31,25 @@ export const Container = () => {
     <section className="layout">
       <section className="overflowx">
         <div className="cardsContainer">
-          <Header innertext={textHeaderOne} />
+          <Header innertext={textHeaderFour} />
           <Description innertext={textDescriptionOne} />
           <Tag />
         </div>
 
         <div className="cardsContainer">
-          <Header innertext={textHeaderTwo} />
+          <Header innertext={textHeaderThree} />
           <Description innertext={textDescriptionTwo} />
           <Tag />
         </div>
 
         <div className="cardsContainer">
-          <Header innertext={textHeaderThree} />
+          <Header innertext={textHeaderTwo} />
           <Description innertext={textDescriptionThree} />
           <Tag />
         </div>
 
         <div className="cardsContainer">
-          <Header innertext={textHeaderFour} />
+          <Header innertext={textHeaderOne} />
           <Description innertext={textDescriptionFour} />
           <Tag />
         </div>
