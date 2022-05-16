@@ -1,11 +1,11 @@
 import React from 'react';
-import '../App.css';
+// import '../App.css';
 import PropTypes from 'prop-types';
 
 
-export const Tag = ({ props, backgroundColor }) => {
+export const Tag = ( props) => {
   return (
-    <p className='tag' style={backgroundColor}>
+    <p className='tag' >
       {props.innertext}
     </p>
 
