@@ -1,38 +1,115 @@
-.App {
-  text-align: center;
+/* TODO Scroll transtion scroll directtion https://stackoverflow.com/questions/18481308/set-mouse-wheel-to-horizontal-scroll-using-css https://css-tricks.com/pure-css-horizontal-scrolling/ */
+
+/* ::-webkit-scrollbar{width:81px;height:82px;} */
+/* ::-webkit-scrollbar-button{width:2px;height:2px;} */
+
+.layout{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position:fixed;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    background-color: #C4D7ED;
+    
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Color pattern https://colordesigner.io/#E1E6FA-C4D7ED-ABC8E2-375D81-183152 */
+
+.sign{
+  position: absolute;
+  top: 55px;
+  font-weight: bold;
+  color: #183152;
+  z-index: 2;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.link_socials{
+  color: #375D81;
+  margin-left: 85px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.link_socials:hover{
+  color:#815b37;
+}
+
+.overflowx{
+  width: 500px;
+  height: 900px;
+  background-color: white;
+  margin: 0 auto;
+  overflow-y: auto;
+  overflow-x: hidden;
+  transform: rotate(-270deg);
+  /* padding:50px; */
+  padding-top: 57px;
+  /* transform-origin: left; */
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+ 
+  /* align-items: center; */
+  /* justify-content: center; */
+  
+  /* left: 50%; */
+  /* position: fixed;
+  top: 0;
+  left: 0;
+   */
+}
+
+.cardsContainer {
+  background-color: white;
+  display:block;
+  margin-top: 130px;
+  margin-bottom: 180px;
+  /* margin-left: -17px; */
+  margin-right: 44px;
+  min-width: 450px;
+  min-height: 167px;
+  border: 2px solid #8170D8;
+  border-radius: 10px;
+  transform: rotate(270deg);
+  /* transform-origin: top; */
+
+}
+
+.cardsContainer:hover{
+  background-color: #DCD5FF;
+}
+
+/* Header Style */
+
+.header {
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-left: 15px;
+  margin-top: 25px;
+}
+
+/* Description Styles */
+
+.decription {
+  font-size: 1.1rem;
+  margin-left: 15px;
+  
+}
+
+/* Tag Styles */
+
+.tag{
+  display: inline-block;
+  background-color: #579A52;
   color: white;
-}
+  border-radius: 50px;
+  padding-left: 17px;
+  padding-right: 17px;
+  /* padding-top: 1px; */
+  padding-bottom: 2px;
+  margin-left: 15px;
+  font-size: 1rem;
+  font-weight: lighter;
+  
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
