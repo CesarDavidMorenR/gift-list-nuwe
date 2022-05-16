@@ -40,6 +40,13 @@ export const Container = () => {
         <a href="https://nuwe.io/users/cesardaviddev" className="link_socials">
           Nuwe Profile
         </a>
+        <br />
+        <a
+          href="https://github.com/DavidMorenoDev/gift-list-nuwe/tree/main"
+          className="link_socials"
+        >
+          Repository
+        </a>
       </p>
       <section className="overflowx">
         <div className="cardsContainer">
