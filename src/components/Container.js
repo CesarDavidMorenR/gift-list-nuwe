@@ -15,6 +15,11 @@ export const Container = () => {
         <Description />
         <Tag />
       </div>
+      <div className="cardsContainer">
+        <Header />
+        <Description />
+        <Tag />
+      </div>
     </section>
   );
 }
