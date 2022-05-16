@@ -4,7 +4,7 @@ import React from "react";
 export const Description = (props) => {
   return ( 
     <p className="decription">
-      {/* Lista de regalos para el grupo crew */}  {props.innertext}
+      {props.innertext}
     </p>
   )
 };
