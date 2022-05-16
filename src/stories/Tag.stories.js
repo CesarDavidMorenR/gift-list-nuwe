@@ -2,8 +2,8 @@ import React from 'react';
 import  Tag  from '../components/Tag';
 
 export default {
+  component: Tag,
   title: 'Tag',
-  component: Tag
-}
+};
 
-export const Blue = () => { <Tag color="white" /> }
+export const Blue = () =>  <p className="tag">sdada</p> 
