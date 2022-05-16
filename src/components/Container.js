@@ -8,30 +8,49 @@ import { Header } from "./Header.js";
 // import { Header } from "./Header.js";
 
 export const Container = () => {
-  const text = "sdsdsdncvn 🎉"; 
-  const textTwo = 'Ge down onw it wcoeffeffak';
+
+  const textHeaderOne = 'Crew 🎉';
+  const textHeaderTwo = 'Family  🎉';
+  const textHeaderThree = 'Other 🎉';
+  const textHeaderFour = 'Pet 🎉';
+
+  const textDescriptionOne = `Lista de reagalos para el grupo ${textHeaderOne} `; 
+  const textDescriptionTwo = `Lista de reagalos para el grupo ${textHeaderTwo} `; 
+  const textDescriptionThree = `Lista de reagalos para el grupo ${textHeaderThree} `; 
+  const textDescriptionFour = `Lista de reagalos para el grupo ${textHeaderFour} `; 
+
+  const tagNameOne = 'Deportes de riesgo';
+  // const tagNameOneSecondary = 'Libros':
+  const tagNameTwo = 'Family';
+  // const tagNameThree = '':
+  // const tagNameFour = 'sdsdncvn';
+
+  
   
   return (
     <section className="layout">
       <section className="overflowx">
         <div className="cardsContainer">
-          <Header />
-          <Description innertext={textTwo} />
+          <Header innertext={textHeaderOne} />
+          <Description innertext={textDescriptionOne} />
           <Tag />
         </div>
+
         <div className="cardsContainer">
-          <Header />
-          <Description innertext={text} />
+          <Header innertext={textHeaderTwo} />
+          <Description innertext={textDescriptionTwo} />
           <Tag />
         </div>
+
         <div className="cardsContainer">
-          <Header />
-          <Description innertext={text} />
+          <Header innertext={textHeaderThree} />
+          <Description innertext={textDescriptionThree} />
           <Tag />
         </div>
+
         <div className="cardsContainer">
-          <Header />
-          <Description innertext={text} />
+          <Header innertext={textHeaderFour} />
+          <Description innertext={textDescriptionFour} />
           <Tag />
         </div>
       </section>
