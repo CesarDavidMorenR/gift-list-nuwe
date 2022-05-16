@@ -20,8 +20,8 @@ Tag.propTypes = {
 
 Tag.defaultProps = {
   innertext: 'AJGJAA',
-  backgroundColor: 'blue',
-  color: 'blue',
+  backgroundColor: 'green',
+  color: 'white',
 }
 
 export default Tag /* This is for storybook */

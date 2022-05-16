@@ -6,4 +6,4 @@ export default {
   title: 'Tag',
 };
 
-export const Blue = () =>  <p className="tag">sdada</p> 
+export const Default = () =>  <p className="tag">sdada</p> 
