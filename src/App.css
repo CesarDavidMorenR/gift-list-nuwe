@@ -23,6 +23,7 @@
   top: 55px;
   font-weight: bold;
   color: #183152;
+  z-index: 2;
 }
 
 .link_socials{
