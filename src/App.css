@@ -1,7 +1,4 @@
-/* TODO Scroll transtion scroll directtion https://stackoverflow.com/questions/18481308/set-mouse-wheel-to-horizontal-scroll-using-css https://css-tricks.com/pure-css-horizontal-scrolling/ */
 
-/* ::-webkit-scrollbar{width:81px;height:82px;} */
-/* ::-webkit-scrollbar-button{width:2px;height:2px;} */
 
 .layout{
     height: 100%;
@@ -20,6 +17,7 @@
 
 .sign{
   position: absolute;
+  /* transform: translate3d(520px,-255px,80px); */
   top: 1%;
   font-weight: bold;
   font-size: 1rem;
@@ -120,7 +118,6 @@
 
 
 .sign{
-display:none;
 }
 
 .link_socials{

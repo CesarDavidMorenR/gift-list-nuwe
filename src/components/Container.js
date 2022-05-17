@@ -28,7 +28,6 @@ export const Container = () => {
   
   return (
     <section className="layout">
-      {/* TODO media query for lapto */}
       <p className="sign">
         Develop by David Moreno (With React): <br />
         <a
@@ -76,6 +75,7 @@ export const Container = () => {
           <Tag innertext={tagNameOne} />
           <Tag innertext={tagNameTwo} />
         </div>
+        {/* TODO PONER SIGN QUE DISPLAY ONLY MOBILE */}
       </section>
     </section>
   );
