@@ -29,7 +29,7 @@ export const Container = () => {
   return (
     <div className="layout">
       <section className="sign_desktop" >
-        <p>Develop by David Moreno (With React):</p> <br />
+        Develop by David Moreno (With React): <br />
         <a
           href="https://www.linkedin.com/in/david-moreno-developer/"
           className="link_socials"
@@ -75,8 +75,9 @@ export const Container = () => {
           <Tag innertext={tagNameOne} />
           <Tag innertext={tagNameTwo} />
         </div>
+
        <section className="sign_mobile">
-        <p>Develop by David Moreno (With React):</p> <br />
+        Develop by David Moreno (With React): <br />
         <a
           href="https://www.linkedin.com/in/david-moreno-developer/"
           className="link_socials"
@@ -95,6 +96,7 @@ export const Container = () => {
           Repository
         </a>
         </section>
+
       </section>
     </div>
   );
