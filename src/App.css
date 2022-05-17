@@ -20,7 +20,7 @@
 
 .sign{
   position: absolute;
-  top: 55px;
+  top: 1%;
   font-weight: bold;
   color: #183152;
   z-index: 2;
@@ -34,6 +34,7 @@
 .link_socials:hover{
   color:#815b37;
 }
+
 
 .overflowx{
   width: 500px;
@@ -111,5 +112,53 @@
   font-size: 1rem;
   font-weight: lighter;
   
+
+}
+
+@media screen and (max-width: 1024px) {
+
+
+.sign{
+  position: absolute;
+  top: 4%;
+}
+
+.link_socials{
+  color: #375D81;
+  margin-left: 85px;
+}
+
+.overflowx{
+
+  width: 500px;
+  height: 900px;
+  background-color: rgb(102, 62, 62);
+  margin: 0 auto;
+  overflow-y: auto;
+  overflow-x: hidden;
+  transform: rotate(0deg);
+  padding-top: 57px;
+  display: flex;
+  /* flex-direction: column; */
+ 
+}
+
+
+.cardsContainer {
+  background-color: white;
+  display:block;
+  margin-top: 130px;
+  margin-bottom: 180px;
+  /* margin-left: -17px; */
+  margin-right: 44px;
+  min-width: 450px;
+  min-height: 167px;
+  border: 2px solid #8170D8;
+  border-radius: 10px;
+  transform: rotate(0deg);
+  /* transform-origin: top; */
+
+}
+
 
 }
