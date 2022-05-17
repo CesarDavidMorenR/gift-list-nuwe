@@ -27,9 +27,9 @@ export const Container = () => {
   
   
   return (
-    <section className="layout">
-      <p className="sign">
-        Develop by David Moreno (With React): <br />
+    <div className="layout">
+      <section className="sign_desktop" >
+        <p>Develop by David Moreno (With React):</p> <br />
         <a
           href="https://www.linkedin.com/in/david-moreno-developer/"
           className="link_socials"
@@ -47,7 +47,7 @@ export const Container = () => {
         >
           Repository
         </a>
-      </p>
+      </section>
       <section className="overflowx">
         <div className="cardsContainer">
           <Header innertext={textHeaderFour} />
@@ -75,9 +75,28 @@ export const Container = () => {
           <Tag innertext={tagNameOne} />
           <Tag innertext={tagNameTwo} />
         </div>
-        {/* TODO PONER SIGN QUE DISPLAY ONLY MOBILE */}
+       <section className="sign_mobile">
+        <p>Develop by David Moreno (With React):</p> <br />
+        <a
+          href="https://www.linkedin.com/in/david-moreno-developer/"
+          className="link_socials"
+        >
+          Linkedin
+        </a>
+        <br />
+        <a href="https://nuwe.io/users/cesardaviddev" className="link_socials">
+          Nuwe Profile
+        </a>
+        <br />
+        <a
+          href="https://github.com/DavidMorenoDev/gift-list-nuwe/tree/main"
+          className="link_socials"
+        >
+          Repository
+        </a>
+        </section>
       </section>
-    </section>
+    </div>
   );
 }
 

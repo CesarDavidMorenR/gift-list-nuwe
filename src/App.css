@@ -15,14 +15,14 @@
 
 /* Color pattern https://colordesigner.io/#E1E6FA-C4D7ED-ABC8E2-375D81-183152 */
 
-.sign{
+.sign_desktop{
   position: absolute;
-  /* transform: translate3d(520px,-255px,80px); */
-  top: 1%;
+  top: 3%;
   font-weight: bold;
   font-size: 1rem;
   color: #183152;
   z-index: 2;
+ 
 }
 
 .link_socials{
@@ -117,7 +117,13 @@
 @media screen and (max-width: 1024px) {
 
 
-.sign{
+.sign_desktop{
+  display:none;
+}
+
+.sig_mobile {
+  margin-top: 10px;
+  background-color: blue;
 }
 
 .link_socials{
