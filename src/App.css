@@ -137,6 +137,7 @@
   background-color: #C4D7ED;
   height: 100%;
   width: 100%;
+  margin-bottom: 15px;
 }
 
 .sign_mobile_container{
@@ -165,7 +166,7 @@
 }
 
 .cardsContainer {
-  margin: 10px 10px 40px 10px;
+  margin: 10px 10px 20px;
   min-width: 337px;
   min-height: 167px;
   transform: rotate(0deg);
