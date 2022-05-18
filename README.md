@@ -1,70 +1,159 @@
-# Getting Started with Create React App
+#### English
+# GIFT-LIST-NUWE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web application with which we can write down the gifts we want to buy for a person or group of people. Gifts can be grouped and organized with tags.
 
-## Available Scripts
+Free hosting in (Online):
 
-In the project directory, you can run:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1d8b8aa-3d5c-4d13-a01b-ceeb0af1394d/deploy-status)](https://app.netlify.com/sites/giftlistnuwejobbarcelona/deploys)
 
-### `npm start`
+https://giftlistnuwejobbarcelona.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Background
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Project made to be able to participate in the JOBarcelona '22 hackathon, through the Nuwe platform (Technological Partner of Talent Point HR/JOBinplanet)
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Project visible online at: https://giftlistnuwejobbarcelona.netlify.app/
 
-### `npm run build`
+It is still a static web page. Logic and dynamism will be added later
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Component
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Atomic component made by several "small" components in the process of documentation and testing with Storybook
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+To be able to run the project locally, on your device, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Stack 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="50px" /></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50px" /></a>
+![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript)
+![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react)
+![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Contact info 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+📫 You can contact me in:<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div> 
+ <a href="https://www.linkedin.com/in/cesar-david-moreno-ramirez-fullstack-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:cesardaviddev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-### Code Splitting
+## License 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+MIT License
 
-### Analyzing the Bundle Size
+Copyright (c) 2022 David Moreno
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### Making a Progressive Web App
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+[MIT](https://opensource.org/licenses/MIT)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+------------
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+------------
+
+
+------------
+
+#### ESPAÑOL
+
+# GIFT-LIST-NUWE
+
+Aplicación web con la que podemos anotar los regalos que queremos comprar para una persona o grupo de personas. Los regalos se pueden agrupar y organizar con etiquetas.
+
+Hosting gratuito en (Online):
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1d8b8aa-3d5c-4d13-a01b-ceeb0af1394d/deploy-status)](https://app.netlify.com/sites/giftlistnuwejobbarcelona/deploys)
+
+https://giftlistnuwejobbarcelona.netlify.app/
+
+## Motivo de realización del proyecto
+
+Proyecto hecho para poder participar en el hackathon JOBarcelona '22, a traves de la plataforma Nuwe (Partner tecnológico de Talent Point HR/JOBinplanet)
+
+## Uso
+
+Proyecto visible online en: https://giftlistnuwejobbarcelona.netlify.app/
+
+Aun sigue siendo una pagina web estatica. Se añadira logica y dinamismo mas adelante
+
+## Componente
+
+Componente atomico hecho por varios componentes "pequeños" en proceso de documentación y testeo con Storybook 
+
+## Instalación
+
+Para poder ejecutar el proyecto de forma local, en tu dispositivo, sigue los siguientes pasos:
+
+
+https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d
+
+## Conjunto de herramientas usadas para el desarrollo
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="50px" /></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50px" /></a>
+![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript)
+![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react)
+![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)
+
+
+## Información de contacto
+
+📫 Me puedes contactar en:<br>
+
+<div> 
+ <a href="https://www.linkedin.com/in/cesar-david-moreno-ramirez-fullstack-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:cesardaviddev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## Licensia
+
+Licencia MIT
+
+Copyright (c) 2022 David Moreno
+
+Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para tratar
+en el Software sin restricciones, incluidos, entre otros, los derechos
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y para permitir a las personas a quienes se les
+provisto para hacerlo, sujeto a las siguientes condiciones:
+
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todos
+copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITO, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO VIOLACIÓN. EN NINGÚN CASO LA
+LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑOS U OTROS
+RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA FORMA, DERIVADA DE,
+FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
+SOFTWARE.
+
+[MIT](https://opensource.org/licenses/MIT)
+

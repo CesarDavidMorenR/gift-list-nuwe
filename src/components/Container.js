@@ -8,7 +8,7 @@ import { Header } from "./Header.js";
 // import { Header } from "./Header.js";
 
 export const Container = () => {
-
+/* TODO Spacing between socials links */
 
   const textHeaderOne = 'Crew 🎉';
   const textHeaderTwo = 'Family  🎉';
@@ -37,11 +37,9 @@ export const Container = () => {
         >
           Linkedin
         </a>
-        <br />
         <a href="https://nuwe.io/users/cesardaviddev" className="link_socials">
           Nuwe Profile
         </a>
-        <br />
         <a
           href="https://github.com/DavidMorenoDev/gift-list-nuwe/tree/main"
           className="link_socials"
@@ -86,11 +84,9 @@ export const Container = () => {
           >
             Linkedin
           </a>
-          <br />
           <a href="https://nuwe.io/users/cesardaviddev" className="link_socials">
             Nuwe Profile
           </a>
-          <br />
           <a
             href="https://github.com/DavidMorenoDev/gift-list-nuwe/tree/main"
             className="link_socials"
