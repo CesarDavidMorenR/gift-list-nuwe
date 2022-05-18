@@ -1,9 +1,17 @@
+
 #### English
 # GIFT-LIST-NUWE
 
 Web application with which we can write down the gifts we want to buy for a person or group of people. Gifts can be grouped and organized with tags.
 
 Free hosting in (Online):
+
+# GIFT-LIST-NUWE
+
+Aplicación web con la que podemos anotar los regalos que queremos comprar para una persona o grupo de personas. Los regalos se pueden agrupar y organizar con etiquetas.
+
+Hosting gratuito en (Online):
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e1d8b8aa-3d5c-4d13-a01b-ceeb0af1394d/deploy-status)](https://app.netlify.com/sites/giftlistnuwejobbarcelona/deploys)
 
@@ -26,6 +34,23 @@ Atomic component made by several "small" components in the process of documentat
 ## Installation
 
 To be able to run the project locally, on your device, follow these steps:
+
+Proyecto hecho para poder participar en el hackathon JOBarcelona '22, a traves de la plataforma Nuwe (Partner tecnológico de Talent Point HR/JOBinplanet)
+
+## Usage
+
+Proyecto visible online en: https://giftlistnuwejobbarcelona.netlify.app/
+
+Aun sigue siendo una pagina web estatica. Se añadira logica y dinamismo mas adelante
+
+## Component
+
+Componente atomico hecho por varios componentes "pequeños" en proceso de documentación y testeo con Storybook 
+
+## Installation
+
+Para poder ejecutar el proyecto de forma local, en tu dispositivo, sigue los siguientes pasos:
+
 
 
 https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d
@@ -70,7 +95,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [MIT](https://opensource.org/licenses/MIT)
-
 
 
 
@@ -156,4 +180,26 @@ FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
 SOFTWARE.
 
 [MIT](https://opensource.org/licenses/MIT)
+
+=======
+## Roadmap and visuals | Not using the common-readme | Not required
+
+Explicación extra, imágenes, wireframes, mockups, GIFs, etc.
+
+## Contribución y Apoyo | Not using the common-readme | Not required
+
+Puedes comentar el proceso de que tiene que hacer una persona si quiere colaborar o apoyar el proyecto. 
+
+## Contact info | Not using the common-readme | Not required  | Recommended
+
+Pon tu información básica de contacto 
+
+## Reconocimientos | Not using the common-readme | Not required
+
+Aquí puedes poner información extra sobre las librerias, documentación o proyectos que has utilizado para crear tu proyecto y perason u organizaciones que lo han apoyado
+## License 
+
+Inlcuir la licéncia y el link a esta
+[MIT](https://opensource.org/licenses/MIT)
+
 
