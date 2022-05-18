@@ -8,16 +8,17 @@ import { Header } from "./Header.js";
 // import { Header } from "./Header.js";
 
 export const Container = () => {
+/* TODO Spacing between socials links */
 
   const textHeaderOne = 'Crew 🎉';
   const textHeaderTwo = 'Family  🎉';
   const textHeaderThree = 'Other 🎉';
   const textHeaderFour = 'Pet 🎉';
 
-  const textDescriptionOne = `Lista de reagalos para el grupo ${textHeaderOne} `; 
-  const textDescriptionTwo = `Lista de reagalos para el grupo ${textHeaderTwo} `; 
-  const textDescriptionThree = `Lista de reagalos para el grupo ${textHeaderThree} `; 
-  const textDescriptionFour = `Lista de reagalos para el grupo ${textHeaderFour} `; 
+  const textDescriptionOne = `Lista de regalos para el grupo ${textHeaderOne} `; 
+  const textDescriptionTwo = `Lista de regalos para el grupo ${textHeaderTwo} `; 
+  const textDescriptionThree = `Lista de regalos para el grupo ${textHeaderThree} `; 
+  const textDescriptionFour = `Lista de regalos para el grupo ${textHeaderFour} `; 
 
   const tagNameOne = 'Deportes de riesgo';
   const tagNameTwo = 'Libros';
@@ -36,11 +37,9 @@ export const Container = () => {
         >
           Linkedin
         </a>
-        <br />
         <a href="https://nuwe.io/users/cesardaviddev" className="link_socials">
           Nuwe Profile
         </a>
-        <br />
         <a
           href="https://github.com/DavidMorenoDev/gift-list-nuwe/tree/main"
           className="link_socials"
@@ -85,11 +84,9 @@ export const Container = () => {
           >
             Linkedin
           </a>
-          <br />
           <a href="https://nuwe.io/users/cesardaviddev" className="link_socials">
             Nuwe Profile
           </a>
-          <br />
           <a
             href="https://github.com/DavidMorenoDev/gift-list-nuwe/tree/main"
             className="link_socials"
