@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# GIFT-LIST-NUWE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicación web con la que podemos anotar los regalos que queremos comprar para una persona o grupo de personas. Los regalos se pueden agrupar y organizar con etiquetas.
 
-## Available Scripts
+Hosting gratuito en (Online):
 
-In the project directory, you can run:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1d8b8aa-3d5c-4d13-a01b-ceeb0af1394d/deploy-status)](https://app.netlify.com/sites/giftlistnuwejobbarcelona/deploys)
 
-### `npm start`
+https://giftlistnuwejobbarcelona.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Background
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Proyecto hecho para poder participar en el hackathon JOBarcelona '22, a traves de la plataforma Nuwe (Partner tecnológico de Talent Point HR/JOBinplanet)
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Proyecto visible online en: https://giftlistnuwejobbarcelona.netlify.app/
 
-### `npm run build`
+Aun sigue siendo una pagina web estatica. Se añadira logica y dinamismo mas adelante
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Component
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Componente atomico hecho por varios componentes "pequeños" en proceso de documentación y testeo con Storybook 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+Para poder ejecutar el proyecto de forma local, en tu dispositivo, sigue los siguientes pasos:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Stack 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="50px" /></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50px" /></a>
+![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript)
+![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react)
+![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Roadmap and visuals | Not using the common-readme | Not required
 
-## Learn More
+Explicación extra, imágenes, wireframes, mockups, GIFs, etc.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contribución y Apoyo | Not using the common-readme | Not required
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Puedes comentar el proceso de que tiene que hacer una persona si quiere colaborar o apoyar el proyecto. 
 
-### Code Splitting
+## Contact info | Not using the common-readme | Not required  | Recommended
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Pon tu información básica de contacto 
 
-### Analyzing the Bundle Size
+## Reconocimientos | Not using the common-readme | Not required
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Aquí puedes poner información extra sobre las librerias, documentación o proyectos que has utilizado para crear tu proyecto y perason u organizaciones que lo han apoyado
+## License 
 
-### Making a Progressive Web App
+Inlcuir la licéncia y el link a esta
+[MIT](https://opensource.org/licenses/MIT)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
