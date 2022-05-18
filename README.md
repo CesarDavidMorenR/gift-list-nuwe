@@ -156,4 +156,3 @@ FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
 SOFTWARE.
 
 [MIT](https://opensource.org/licenses/MIT)
-
