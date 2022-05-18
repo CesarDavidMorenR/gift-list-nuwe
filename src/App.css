@@ -33,6 +33,8 @@
   color: #375D81;
   font-size: 1rem;
   margin-left: 85px;
+  display: block;
+  margin-bottom: 4px;
 }
 
 .link_socials:hover{
@@ -133,6 +135,7 @@
   color: #183152;
   display:block;
   background-color: #C4D7ED;
+  height: 100%;
   width: 100%;
 }
 
@@ -162,7 +165,7 @@
 }
 
 .cardsContainer {
-  margin: 10px;
+  margin: 10px 10px 40px 10px;
   min-width: 337px;
   min-height: 167px;
   transform: rotate(0deg);
